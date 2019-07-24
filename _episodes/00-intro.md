@@ -125,7 +125,7 @@ freely available to extend R's native capabilities.
 <img src="../fig/r+rstudio-analogy.jpg" title="RStudio extends what R can do, and makes it easier to write R code and interact with R." alt="RStudio extends what R can do, and makes it easier to write R code and interact with R." style="display: block; margin: auto;" />
 <figcaption>
 RStudio extends what R can do, and makes it easier to write R code and interact
-with R. <a href="https://commons.wikimedia.org/w/index.php?curid=2447462">Left photo credit</a>; <a href="https://commons.wikimedia.org/w/index.php?curid=44599363">right photo credit</a>, 
+with R. <a href="https://commons.wikimedia.org/w/index.php?curid=2447462">Left photo credit</a>; <a href="https://commons.wikimedia.org/w/index.php?curid=44599363">right photo credit</a>. 
 </figcaption>
 </figure>
 
